@@ -1,7 +1,3 @@
-//### Hi there 👋
-//## Hellow IJSE
-//This site was built using [GitHub Pages](https://www.ijse.lk/).
-//<h2 align="center">Hi 👋! My name is Malshan and I'm a developer, from Sri Lanka</h2>
 
 <h1 align="center">Hellow Welcome to My Profile!</h1>
 
